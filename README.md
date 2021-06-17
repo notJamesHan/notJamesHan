@@ -1,7 +1,7 @@
 - 👋 Hi, my name is James Han!
 - 👀 I’m interested in learning full stack developement!
 - 🌱 I’m currently learning javascript, java, C++, and python!
-- 📫 You can reach me through James.Han2@UTDallas.edu or jameshan20024@gmail.com (Preferred)!
+- 📫 You can reach me through James.Han2@UTDallas.edu!
 Thank you!
 
 <!---
