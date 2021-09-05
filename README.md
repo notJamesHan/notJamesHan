@@ -1,5 +1,5 @@
 - 👋 Hi, my name is James Han!
-- 👀 I’m interested in learning full stack developement!
+- 👀 I’m interested in full stack developement!
 - 🌱 I’m currently learning javascript, java, C++, and python!
 - 📫 You can reach me through James.Han2@UTDallas.edu!
 Thank you!
