@@ -2,8 +2,8 @@
 My name is James and I am a Computer Science student from UT Dallas.
 
 💼 Work Experience
-- **Software Engineer intern at Samsung Research America (NEON)** - [Bay Area. Summer 2022 - Current]
-- **Robot Field Assistant at Starship Technologies** - [Dallas, Fall 2021 - Spring 2022]
+- **Software Engineer intern at Samsung Research America (NEON)** - [Mountain View, California. Summer 2022 - Current]
+- **Robot Field Assistant at Starship Technologies** - [Dallas, Texas. Fall 2021 - Spring 2022]
 
 🌱 Interests
 -  Web Development
