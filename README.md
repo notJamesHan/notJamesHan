@@ -1,6 +1,6 @@
 ###  **👋 Hello!**
 
-My name is James and I am a Computer Science student from UT Dallas.
+My name is James, and I am a Computer Science student from UT Dallas.
 
 #### 💼 Work Experience
 - **Software Engineer intern at Samsung Research America (NEON)** - [Mountain View, California. Summer 2022 - Current]
