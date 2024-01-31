@@ -3,9 +3,9 @@
 My name is James, and I am a Computer Science student from UT Dallas.
 
 #### 💼 Work Experience
-- **Software Engineer Intern at Samsung Research America ([NEON](https://neonlife.ai/))** - [Mountain View, California. Fall 2023 - Current]
+- **Software Engineer Intern at Samsung Research America** - [Mountain View, California. Fall 2023 - Current]
 - **Software Development Intern at Amazon** -  [Austin, Texas. Summer 2023]
-- **Software Engineer Intern at Samsung Research America ([NEON](https://neonlife.ai/))** - [Mountain View, California. Summer 2022 - Spring 2023]
+- **Software Engineer Intern at Samsung Research America** - [Mountain View, California. Summer 2022 - Spring 2023]
 
 #### 🌱 Interests
 -  AI, ML
