@@ -17,19 +17,20 @@ I am James Han, a Senior CS Student at the University of Texas at Dallas.
 - **Samsung Research America** - Software Engineer Intern (Current)
 - **Amazon** - Software Development Intern
 
-#### 💬 Contact Me
-- [Email Address](contactJamesHan@gmail.com)
-- [LinkedIn Link](www.linkedin.com/in/jameshan-utd)
+<br/>
 
-#### 📫 Visit my portfolio
-- [Portfolio Link](https://notjameshan.github.io)
+💬 Contact Me through: [LinkedIn](www.linkedin.com/in/jameshan-utd) and my email: contactJamesHan@gmail.com
 
+📫 Visit my portfolio: [Portfolio Link](https://notjameshan.github.io)
+
+<!---
 <br/>
 <div style="width: 30%; overflow: hidden; text-align: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=notjameshan&show_icons=true&locale=en" alt="notjameshan" style="display: block; width: 50%; height: auto;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=notjameshan&" alt="notjameshan" style="display: block; width: 50%; height: auto;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=notjameshan&show_icons=true&locale=en&layout=compact" alt="notjameshan" style="display: block; width: 50%; height: auto;">
 </div>
+--->
 
 <!---
 jameshan2002/jameshan2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
