@@ -18,6 +18,7 @@ I am James Han, a Senior CS Student at the University of Texas at Dallas.
 - **Amazon** - Software Development Intern
 
 <br/>
+<hr/>
 
 💬 Contact Me through: [LinkedIn](www.linkedin.com/in/jameshan-utd) and my email: contactJamesHan@gmail.com
 
