@@ -17,9 +17,11 @@ I am James Han, a Senior CS Student at the University of Texas at Dallas.
 - **Samsung Research America** - Software Engineer Intern (Current)
 - **Amazon** - Software Development Intern
 
-💬 Reach me by email or LinkedIn! contactJamesHan@gmail.com | www.linkedin.com/in/jameshan-utd
+#### 💬 Contact Me
+- [contactJamesHan@gmail.com](contactJamesHan@gmail.com)
+- [www.linkedin.com/in/jameshan-utd](www.linkedin.com/in/jameshan-utd)
 
-📫 Visit my website: https://notjameshan.github.io
+📫 Visit my portfolio: [https://notjameshan.github.io](https://notjameshan.github.io)
 
 <!---
 jameshan2002/jameshan2002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
