@@ -5,9 +5,9 @@
 I am James Han, a Senior CS Student at the University of Texas at Dallas.
 
 #### 🌱 Interests
+-  AI/ML
 -  Large Language Models (LLM)
--  Reinforcement Learning
--  Speech Synthesis
+-  Natural Language Processing
 
 #### 🔬 Research Experience
 - **Undergraduate Researcher at UT Dallas** - Classification of Imbalanced Data with LLM (Current)
