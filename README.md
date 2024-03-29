@@ -20,7 +20,7 @@ I am James Han, a Senior CS Student at the University of Texas at Dallas.
 <br/>
 <hr/>
 
-💬 Contact Me through: [LinkedIn](www.linkedin.com/in/jameshan-utd) and my email: contactJamesHan@gmail.com
+💬 Contact Me through: [LinkedIn](www.linkedin.com/in/jvmeshan) and my email: contactJamesHan@gmail.com
 
 📫 Visit my portfolio: [Portfolio Link](https://notjameshan.github.io)
 
