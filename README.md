@@ -14,7 +14,7 @@ I am James Han, a Senior CS Student at the University of Texas at Dallas.
 - **Undergraduate Researcher at ACM UT Dallas** - Reinforcement Learning Traffic Control
 
 #### 💼 Work Experience
-- **Samsung Research America** - Software Engineer Intern (Current)
+- **Samsung Research America** - Software Engineer Intern
 - **Amazon** - Software Development Intern
 
 <br/>
