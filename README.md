@@ -2,7 +2,7 @@
 
 > 💻 I'm looking to collaborate on new open-source projects.
 
-I am James Han, a master's CS Student at the University of Texas at Dallas.
+I am James Han, recent Graduate at UT Dallas
 
 #### 🌱 Interests
 -  AI/ML
