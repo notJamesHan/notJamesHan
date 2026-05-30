@@ -2,7 +2,7 @@
 
 > 💻 I'm looking to collaborate on new open-source projects.
 
-I am James Han, recent Graduate at UT Dallas
+I am James Han, a recent Graduate at UT Dallas CS MS
 
 #### 🌱 Interests
 -  AI/ML
@@ -10,7 +10,8 @@ I am James Han, recent Graduate at UT Dallas
 -  Natural Language Processing
 
 #### 🔬 Research Experience
-- **Undergraduate Researcher at UT Dallas** - Classification of Imbalanced Data with LLM (Current)
+- **Research Assistnant at UT Dallas** - 2025 Spring
+- **Undergraduate Researcher at UT Dallas** - Classification of Imbalanced Data with LLM
 - **Undergraduate Researcher at ACM UT Dallas** - Reinforcement Learning Traffic Control
 
 #### 💼 Work Experience
